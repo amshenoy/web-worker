@@ -1,1 +1,2 @@
-# web-worker
+# Web Worker Template
+
